@@ -1,0 +1,68 @@
+[
+  {
+    "id": "anuncio_001",
+    "titulo": "Apartamento moderno no Centro de Vitória/ES",
+    "descricao": "Apartamento bem localizado, bairro seguro, perto do centro. Ideal para famílias e a poucos minutos da praia. Segurança 24h.",
+    "fotos": [
+      {
+        "url": "f1.jpg",
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "url": "f2.jpg",
+        "width": 1200,
+        "height": 800
+      },
+      {
+        "url": "f3.jpg",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "url": "f4.jpg",
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "url": "f5.jpg",
+        "width": 1200,
+        "height": 800
+      },
+      {
+        "url": "f6.jpg",
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "url": "f7.jpg",
+        "width": 1100,
+        "height": 733
+      },
+      {
+        "url": "f8.jpg",
+        "width": 1280,
+        "height": 960
+      },
+      {
+        "url": "f9.jpg",
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "url": "f10.jpg",
+        "width": 1024,
+        "height": 683
+      }
+    ],
+    "amenidades": [
+      "Wi-Fi",
+      "Cama",
+      "Banheiro",
+      "Ar-condicionado",
+      "Cozinha"
+    ],
+    "preco": 350,
+    "mediana": 300
+  }
+]
