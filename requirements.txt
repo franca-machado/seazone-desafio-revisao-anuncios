@@ -1,0 +1,5 @@
+# requirements.txt
+# Nenhuma dependência externa necessária para o MVP básico.
+# Caso use scraping real, adicione:
+# requests
+# beautifulsoup4
